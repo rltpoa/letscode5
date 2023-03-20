@@ -1,0 +1,1 @@
+--insert into  (nome, matricula, sexo, curso_id) values ('Nuno','545444', 'M','1');
